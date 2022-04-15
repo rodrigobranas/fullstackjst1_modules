@@ -1,0 +1,5 @@
+// anos 60, vários formatos diferentes de codificação, o que tornava a interoperabilidade difícil
+// 1963 ASCII American Stadard Code for Information Interchange, 7 bits, 127 caracteres, os caracteres do inglês, 32 não imprimíveis (CR, LF, Bell, ), 96 imprimíveis (a-z, A-Z, 0-9, []{}(),.;:)
+// ISO 8859-x, 1 a 16, páginas da ISO que tinham conjuntos regionalizados de caracteres, latin1 = ascii + caracteres para os idiomas português, espanhol, italiano
+// UTF-8, incorporou o ASCI nos primeiros 127 caracteres, em 1 bytes, depois disso 2 bytes e assim por diante
+// CR = Carriage Return, LF = Line Feed
